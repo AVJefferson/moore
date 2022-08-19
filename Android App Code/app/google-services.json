@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069892489428",
+    "firebase_url": "https://silicon-labs-76248-default-rtdb.firebaseio.com",
+    "project_id": "silicon-labs-76248",
+    "storage_bucket": "silicon-labs-76248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069892489428:android:4d60768e35850613b8ab41",
+        "android_client_info": {
+          "package_name": "com.example.siliconlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069892489428-grdaofd2e6sl5stojdcnb0bp5ed0vlsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.siliconlab",
+            "certificate_hash": "3456582ebc63f45ddc1e56599e34d59be7c0a5e9"
+          }
+        },
+        {
+          "client_id": "1069892489428-r5eielmc6hh4aenidptrq9hp0av8lvmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbnByMUFO75vp_pESx6-p-5DLx3Ri5Y2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069892489428-r5eielmc6hh4aenidptrq9hp0av8lvmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
